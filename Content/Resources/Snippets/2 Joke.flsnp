@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="424" MadCap:lastWidth="1198">
+    <body>
+        <table style="height: 400px;margin-left: auto;margin-right: auto;width: 100%;">
+            <col />
+            <tbody>
+                <tr>
+                    <td style="vertical-align: middle;">
+                        <p class="CenterItalicBold">My dog has no nose.</p>
+                        <p class="Center">How does he smell?</p>
+                        <p class="CenterItalicBoldSpaceBelow">Awful.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

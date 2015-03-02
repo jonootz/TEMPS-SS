@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary
+  conditions="">
+  <GlossaryEntry
+    Terms="Copy (5) of New">
+    <Terms>
+      <Term>Condition tag</Term>
+    </Terms>
+    <Definition
+      Link="">A marker that you can apply to different areas of your content so that some sections show up in some of your outputs but not in others.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    Terms="Copy (15) of New">
+    <Terms>
+      <Term>Style</Term>
+    </Terms>
+    <Definition
+      Link="">An element that contain pre-set formatting properties. You can apply style classes to your content to change the way it looks. Using style classes instead of direct (or "inline") formatting helps you work faster, more efficiently, and with more consistency in your topics. If you need to make changes to the formatting in the future, you do not need to change the formatting in each topic (as you would with direct formatting). Instead, you only need to change the formatting properties for that style in the appropriate stylesheet.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry>
+    <Terms>
+      <Term>Cross-reference</Term>
+    </Terms>
+    <Definition
+      Link="">A navigation link that lets you connect text in one topic to another topic (or a bookmark within a topic). Cross-references let you create "automated" links that are based on commands you provide. This allows you to keep links consistent and change them in just one place by using the "xref" style.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

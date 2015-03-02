@@ -1,0 +1,158 @@
+/*<meta />*/
+
+body
+{
+	color: #404040;
+	font-family: Arial;
+	font-size: .9em;
+	line-height: 1.7em;
+}
+
+a:link
+{
+	color: #2D8DCC;
+	font-weight: bold;
+}
+
+a:visited
+{
+	color: #2D8DCC;
+}
+
+a:hover
+{
+	color: #BED230;
+}
+
+h1
+{
+	font-size: 1.5em;
+	font-weight: normal;
+	margin-bottom: 8px;
+	margin-top: 20px;
+	padding-bottom: 10px;
+}
+
+h2
+{
+	font-size: 1.2em;
+	margin-bottom: 4px;
+	margin-top: 20px;
+}
+
+h3
+{
+	font-size: 1.1em;
+	margin-bottom: 4px;
+	margin-top: 16px;
+}
+
+h4
+{
+	
+}
+
+li
+{
+	margin-bottom: 6px;
+	margin-top: 6px;
+}
+
+MadCap|slide
+{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+MadCap|xref
+{
+	color: #2D8DCC;
+	font-weight: bold;
+	mc-format: '{para}';
+	text-decoration: underline;
+}
+
+MadCap|xref:hover
+{
+	color: #BED230;
+}
+
+p
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+
+p.Center
+{
+	text-align: center;
+}
+
+p.CenterBold
+{
+	font-weight: bold;
+	text-align: center;
+}
+
+p.CenterBoldSpaceAbove
+{
+	font-weight: bold;
+	padding-top: 40px;
+	text-align: center;
+}
+
+p.CenterItalicBold
+{
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+}
+
+p.CenterItalicBoldSpaceAbove
+{
+	font-style: italic;
+	font-weight: bold;
+	padding-top: 60px;
+	text-align: center;
+}
+
+p.CenterItalicBoldSpaceBelow
+{
+	font-style: italic;
+	font-weight: bold;
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+p.CenterSpaceAbove
+{
+	padding-top: 40px;
+	text-align: center;
+}
+
+p.CenterSpaceAboveAndBelow
+{
+	padding-top: 40px;
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+p.CenterSpaceBelow
+{
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+p.TableColumnHeadings
+{
+	margin-bottom: 2px;
+	margin-top: 8px;
+	font-weight: bold;
+}
+
+p.TableText
+{
+	margin-bottom: 2px;
+	margin-top: 8px;
+	text-align: center;
+}

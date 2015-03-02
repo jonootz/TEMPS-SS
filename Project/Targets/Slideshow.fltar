@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="HTML5 Output"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/SlideshowTopics/FullScreenPresentation.htm"
+  MasterToc="/Project/TOCs/OnlineOutput.fltoc"
+  ConditionTagExpression=""
+  InsertMOTW="true"
+  EnableSitemap="false"
+  IncludeStopWords="true"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png"
+  EnableResponsiveOutput="true"
+  Skin="/Project/Skins/HTML5.flskn">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Glossaries />
+</CatapultTarget>
